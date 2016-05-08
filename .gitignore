@@ -1,0 +1,35 @@
+Iconr
+*.jar
+*.zip
+*.iml
+*.xml
+*.war
+*.class
+*.MF
+.*/Iconr
+*.png
+*.properties
+*./history/.*
+*./history/*.
+*.index
+*.history
+*.bin
+*.lock
+.name
+.classpath
+*.
+*.log
+*/libraries/*
+MAD/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries
+*.cache
+MAD/HelloWorld/.settings
+.project
+MAD/.metadata
+MAD/ParseStarterProject/.settings
+MAD/Inclass Assignment/Inclass_7/.settings
+MAD/Inclass Assignment/Inclass_5/.settings
+MAD/Inclass Assignment/Inclass_4/bin
+MAD/Inclass Assignment/InClass_3/bin
+MAD/Inclass Assignment/Inclass_2b/bin
+MAD/Inclass Assignment/Inclass_2a/bin
+MAD/Inclass Assignment/Inclass_2a/.settings
