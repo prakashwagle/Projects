@@ -1,0 +1,179 @@
+Country,Demographic Pressures,Refugees and IDPs,Group Grievance,Human Flight,Uneven Development,Poverty and Economic Decline,Legitimacy of the State,Public Services,Human Rights,Security Apparatus,Factionalized Elites,External Intervention,POPULATION,AREA,DECISION
+South Sudan,9,10,10,7,9,9,10,10,10,10,10,10,6,7,Alert
+Somalia,9,10,9,9,9,9,9,9,10,9,10,9,6,11,Alert
+Central African Republic,9,10,9,7,9,8,9,10,9,10,10,10,4,11,Alert
+Congo (D. R.),9,10,9,7,8,8,9,9,10,9,9,10,9,13,Alert
+Sudan,8,10,10,9,8,8,9,9,9,9,10,9,8,13,Alert
+Chad,9,10,8,8,9,8,9,10,9,9,10,8,6,12,Alert
+Afghanistan,9,9,9,8,7,8,9,9,8,10,9,10,8,11,Alert
+Yemen,9,9,9,7,8,9,9,8,9,9,9,8,8,10,Alert
+Haiti,9,8,7,9,9,9,9,9,7,7,9,10,6,4,Alert
+Pakistan,9,9,10,7,7,7,8,7,8,10,9,9,10,11,Alert
+Zimbabwe,9,8,8,8,8,8,9,9,8,8,10,8,7,10,Alert
+Guinea,8,8,8,7,8,9,10,9,8,9,9,7,6,9,Alert
+Iraq,8,8,10,8,8,7,9,8,9,10,9,8,8,10,Alert
+Cote d'Ivoire,8,9,9,7,7,7,9,9,9,9,9,9,7,10,Alert
+Syria,6,10,10,7,7,7,10,7,10,10,9,8,7,8,Alert
+Guinea Bissau,8,8,6,8,8,8,9,9,7,8,9,9,3,4,Alert
+Nigeria,8,7,10,7,9,7,9,9,9,9,9,6,10,12,Alert
+Kenya,9,8,9,8,8,8,8,8,7,8,9,8,9,11,Alert
+Niger,9,8,7,6,8,8,8,9,7,8,9,8,7,12,Alert
+Ethiopia,9,9,9,7,7,7,7,9,8,8,9,8,10,12,Alert
+Burundi,9,9,8,6,7,9,8,8,8,7,8,8,6,4,Alert
+Uganda,9,9,8,7,7,7,8,8,7,8,9,8,8,9,Alert
+Eritrea,8,7,6,7,7,8,9,8,9,7,8,8,5,7,Alert
+Liberia,8,9,6,7,8,8,7,9,6,7,8,10,4,7,Alert
+Myanmar,7,8,9,5,8,7,9,8,8,8,8,7,9,11,Alert
+North Korea,7,5,6,4,8,9,10,9,9,8,8,8,8,8,Alert
+Cameroon,8,7,8,7,7,6,8,8,8,8,9,6,7,10,Alert
+Mauritania,8,9,7,6,7,8,7,8,8,8,8,8,4,12,Alert
+Bangladesh,7,7,9,7,7,7,8,8,8,8,9,6,10,8,Alert
+Sri Lanka,6,8,9,7,7,6,8,5,9,8,9,7,7,6,Alert
+Egypt,7,6,8,5,7,8,9,6,10,8,9,7,9,12,Alert
+Timor-Leste,9,7,7,7,6,8,8,8,6,8,8,9,3,3,Alert
+Nepal,8,7,9,6,8,7,7,7,7,7,8,7,8,8,Alert
+Rwanda,8,8,8,7,8,7,6,7,8,6,8,8,6,4,Alert
+Sierra Leone,9,8,6,8,8,8,7,9,6,5,8,7,5,6,Warning
+Mali,9,7,7,8,7,8,6,8,7,8,5,8,7,12,Warning
+Congo (Republic),8,8,6,6,8,7,8,9,7,6,7,8,4,10,Warning
+Malawi,9,6,6,8,8,8,7,8,6,5,8,8,7,7,Warning
+Burkina Faso,9,7,5,6,8,7,8,9,6,7,7,8,7,9,Warning
+Cambodia,7,6,7,7,7,6,8,8,8,6,8,8,7,8,Warning
+Libya,6,6,7,5,6,6,8,7,9,9,8,9,5,13,Warning
+Togo,8,7,5,7,8,7,8,8,7,7,7,7,5,5,Warning
+Angola,9,7,7,6,9,5,8,9,7,6,7,6,7,12,Warning
+Iran,5,7,9,6,6,6,9,5,9,8,9,7,9,13,Warning
+Dijbouti,8,7,6,5,7,7,8,8,7,7,7,8,2,4,Warning
+Lebanon,6,8,9,6,6,5,7,6,7,8,9,8,4,2,Warning
+Solomon Islands,8,5,7,6,8,7,7,8,6,7,8,8,2,4,Warning
+Uzbekistan,6,6,7,6,7,7,9,5,9,7,9,5,8,10,Warning
+Zambia,9,7,6,8,8,8,8,8,7,5,6,7,7,11,Warning
+Mozambique,9,5,5,7,8,8,7,9,6,6,6,7,8,11,Warning
+Swaziland,9,5,4,6,8,9,9,8,8,6,7,8,3,3,Warning
+Equatorial Guinea,8,4,6,6,9,4,10,7,9,7,8,6,2,4,Warning
+Philippines,8,8,8,6,6,6,7,7,6,9,8,6,10,9,Warning
+Comoros,7,5,5,7,7,8,7,8,7,7,7,8,2,1,Warning
+Tajikistan,7,5,7,6,6,8,9,6,8,7,8,7,6,8,Warning
+Laos,7,6,6,7,6,6,8,7,8,6,8,7,5,9,Warning
+Papua New Guinea,7,5,6,7,9,6,6,9,6,6,7,6,5,10,Warning
+Kyrgyzstan,6,5,8,6,7,7,8,6,7,7,8,7,5,8,Warning
+Gambia,8,7,4,7,7,7,7,8,8,5,7,7,3,2,Warning
+Colombia,6,8,8,7,8,4,7,6,7,7,8,7,9,12,Warning
+Madagascar,8,4,5,6,8,8,7,9,6,7,7,7,7,11,Warning
+Senegal,8,7,6,7,7,7,6,8,6,6,6,6,6,8,Warning
+Georgia,5,7,8,5,6,6,9,5,6,7,9,7,4,6,Warning
+Bhutan,6,7,7,7,7,6,5,6,7,5,7,7,2,5,Warning
+Tanzania,8,7,6,7,7,7,6,9,6,5,6,7,9,11,Warning
+Guatemala,7,6,7,7,8,6,6,7,7,7,6,6,7,7,Warning
+Israel/West Bank,6,7,10,3,7,4,6,5,7,7,8,7,6,4,Warning
+China,8,6,8,5,8,4,8,6,9,6,7,3,11,14,Warning
+Fiji,5,4,7,7,7,7,8,5,7,7,8,7,2,3,Warning
+Bolivia,6,4,7,6,8,6,7,7,6,6,8,6,6,12,Warning
+Algeria,6,7,8,5,6,6,7,6,7,7,7,6,8,13,Warning
+Lesotho,8,5,5,7,7,8,6,8,5,5,7,7,3,5,Warning
+Nicaragua,6,5,6,8,7,6,7,7,5,5,7,7,5,8,Warning
+Turkmenistan,6,4,7,5,7,5,9,6,8,7,8,5,5,10,Warning
+Benin,8,6,4,6,7,7,6,9,5,6,6,7,6,7,Warning
+Honduras,7,4,6,6,8,6,7,7,6,6,7,7,5,7,Warning
+Azerbaijan,5,7,7,5,6,4,8,5,8,7,8,6,6,6,Warning
+Tunisia,5,4,8,5,6,6,8,5,8,7,8,6,6,8,Warning
+Ecuador,6,6,7,6,7,5,7,6,5,6,8,6,7,9,Warning
+Thailand,7,6,8,4,6,4,7,5,7,8,9,4,9,10,Warning
+India,8,5,8,5,8,6,5,7,5,8,7,5,11,13,Warning
+Indonesia,7,6,7,6,6,5,6,6,6,6,7,5,11,13,Warning
+Jordan,7,8,7,4,6,6,6,5,7,5,7,6,5,6,Warning
+Venezuela,5,5,7,5,7,5,8,7,8,6,8,4,8,11,Warning
+Russia,5,5,8,5,7,4,7,5,9,8,8,4,10,14,Warning
+Bosnia,4,7,7,6,6,5,7,4,6,6,9,8,4,5,Warning
+Sao Tome,7,4,5,8,6,8,6,6,4,6,6,7,1,1,Warning
+Maldives,6,5,5,6,4,7,8,6,7,6,8,7,1,1,Warning
+Moldova,5,5,6,6,5,6,6,5,6,7,8,7,4,5,Warning
+Belarus,5,4,7,4,5,6,9,5,8,6,8,7,6,9,Warning
+Micronesia,7,3,4,9,8,8,6,6,3,5,5,8,1,1,Warning
+Morocco,6,5,7,7,6,5,6,6,6,6,6,5,8,10,Warning
+Cape Verde,7,4,4,8,7,6,6,7,5,6,5,8,2,2,Warning
+Turkey,5,7,9,4,6,5,6,5,6,7,7,5,9,11,Warning
+Dominican Republic,6,5,6,8,6,5,6,6,6,5,6,6,6,5,Warning
+Saudi Arabia,6,5,8,3,6,4,8,4,9,7,8,5,8,13,Warning
+Peru,6,5,7,6,7,4,7,7,5,7,7,4,8,12,Warning
+Vietnam,6,5,6,5,6,6,8,5,7,5,7,5,10,10,Warning
+Gabon,7,5,4,5,7,5,8,7,6,5,7,5,3,9,Warning
+El Salvador,7,5,6,6,7,6,5,6,6,6,4,5,5,4,Warning
+Serbia,4,6,8,5,5,6,6,4,5,6,8,7,5,6,Warning
+Paraguay,6,3,6,5,9,5,7,6,6,6,8,4,5,10,Warning
+Namibia,7,6,5,7,8,7,4,7,4,4,3,7,3,11,Warning
+Armenia,5,7,6,6,5,6,7,4,7,5,7,6,4,4,Warning
+Mexico,7,4,6,5,7,5,6,6,6,7,5,6,10,13,Warning
+Guyana,6,4,6,9,6,7,5,6,4,5,5,6,2,8,Warning
+Cuba,6,5,5,6,6,5,7,5,7,6,7,6,6,7,Warning
+Ghana,7,6,5,7,7,6,5,8,5,4,5,6,8,9,Warning
+Suriname,5,3,6,7,7,7,6,5,5,6,6,6,2,8,Warning
+Samoa,6,2,5,9,6,6,6,5,5,5,5,8,1,2,Warning
+Kazakhstan,5,4,6,4,5,6,8,5,7,6,7,5,7,13,Warning
+Cyprus,4,4,7,5,7,6,5,3,4,5,8,9,3,2,Warning
+Ukraine,4,3,6,5,5,5,8,4,6,5,8,6,9,11,Warning
+Belize,6,4,4,7,6,5,6,6,4,5,4,6,1,4,Warning
+South Africa,7,6,6,4,8,6,5,6,4,5,5,3,9,12,Warning
+Macedonia,4,5,7,6,6,6,6,4,4,6,7,6,3,4,Warning
+Malaysia,5,4,6,5,5,4,6,4,7,6,7,4,8,10,Warning
+Grenada,5,3,4,8,5,6,6,4,4,5,5,7,1,1,Warning
+Jamaica,5,3,4,7,6,7,5,5,5,6,4,6,3,2,Warning
+Bahrain,5,3,7,3,5,3,8,2,8,6,7,5,3,1,Warning
+Botswana,8,5,5,5,8,6,4,6,4,3,3,5,3,11,Warning
+Seychelles,5,3,5,5,6,5,6,3,5,6,6,7,1,1,Warning
+Albania,4,3,5,7,4,5,6,5,5,5,6,6,1,2,Warning
+Brunei,4,3,6,5,8,3,7,2,7,5,7,4,3,4,Warning
+Brazil,7,4,5,4,8,4,5,5,5,5,5,3,11,14,Warning
+Trinidad & Tobago,5,3,4,8,6,4,5,5,5,5,5,4,3,2,Warning
+Antigua & Barbuda,5,3,4,7,5,4,6,4,5,5,4,6,1,1,Stable
+Kuwait,5,4,5,3,5,3,7,3,7,4,8,4,4,3,Stable
+Mongolia,6,2,4,3,6,4,5,6,5,4,5,6,3,13,Stable
+Romania,4,3,6,4,5,6,6,4,4,4,5,4,7,9,Stable
+Montenegro,4,5,7,3,3,5,4,4,4,4,6,5,2,3,Stable
+Panama,5,4,5,4,7,4,4,5,5,5,2,3,4,6,Stable
+Bulgaria,4,3,5,5,5,5,5,4,4,4,5,5,5,7,Stable
+Bahamas,6,3,4,5,5,5,4,5,3,4,4,4,1,2,Stable
+Oman,5,2,3,2,4,5,6,4,7,5,6,2,4,10,Stable
+Croatia,3,5,5,4,4,5,4,3,4,4,4,5,4,5,Stable
+Greece,3,2,5,4,4,6,6,4,4,4,3,5,6,8,Stable
+Barbados,4,3,4,6,5,6,3,3,3,4,4,5,1,1,Stable
+Qatar,4,2,5,3,5,3,6,2,6,3,5,4,3,2,Stable
+Costa Rica,4,4,4,3,6,4,3,5,2,3,4,4,4,5,Stable
+Hungary,3,3,4,4,4,5,6,3,4,3,5,4,6,7,Stable
+Latvia,4,3,6,4,4,4,4,4,3,3,4,3,3,6,Stable
+United Arab Emirates,4,2,4,3,4,3,7,3,6,3,4,3,6,6,Stable
+Argentina,4,2,5,3,6,4,4,4,4,3,3,4,9,13,Stable
+Mauritius,4,2,3,4,4,4,4,4,4,3,3,5,3,2,Stable
+Slovakia,3,2,5,4,4,5,4,3,3,3,4,4,5,5,Stable
+Estonia,4,3,6,4,4,4,3,3,2,3,5,3,3,5,Stable
+Italy,4,3,4,2,3,5,4,3,3,5,5,2,9,9,Stable
+Lithuania,4,3,4,4,5,5,3,4,3,3,3,3,3,6,Stable
+Spain,3,2,6,3,4,5,3,3,2,4,6,2,9,10,Stable
+Malta,3,5,4,4,3,4,4,3,4,4,2,4,1,1,Stable
+Poland,4,3,4,5,4,4,3,3,3,3,4,3,8,10,Stable
+Chile,4,3,4,3,5,4,3,4,4,3,2,3,7,11,Stable
+Czech Republic,2,2,4,3,3,5,4,3,2,2,4,3,6,6,Stable
+Uruguay,4,2,3,4,4,3,2,4,2,3,3,3,4,8,Stable
+South Korea,3,2,3,4,3,2,3,2,3,2,4,6,9,7,Stable
+Japan,5,3,4,2,2,4,2,2,3,2,3,4,10,10,Stable
+Singapore,3,1,3,4,4,3,3,2,5,2,4,2,5,1,Stable
+United States,3,2,4,1,4,3,2,2,3,3,4,1,11,14,Stable
+France,3,2,6,2,4,4,2,2,2,3,2,2,9,10,Stable
+United Kingdom,3,3,5,2,3,4,2,2,2,3,3,1,9,9,Stable
+Portugal,3,2,2,2,3,5,2,3,3,2,2,3,6,7,Stable
+Slovenia,2,2,4,3,4,4,3,2,2,2,2,2,3,4,Stable
+Belgium,3,2,4,2,3,4,2,2,1,2,4,2,6,5,Stable
+Germany,3,3,4,2,4,3,1,2,2,2,2,2,9,10,Stable
+Netherlands,3,2,4,2,2,4,1,2,1,2,3,2,7,5,Sustainable
+Austria,3,2,4,2,4,2,2,2,2,1,3,2,6,6,Sustainable
+Canada,3,2,3,2,3,2,1,2,2,2,2,1,8,14,Sustainable
+Australia,3,2,4,1,3,2,1,2,2,2,2,1,7,14,Sustainable
+Ireland,2,1,2,3,3,4,2,2,1,2,1,2,4,6,Sustainable
+Iceland,2,2,1,3,2,4,1,2,1,1,2,5,1,7,Sustainable
+Luxembourg,2,2,3,2,2,2,2,2,1,2,3,2,2,2,Sustainable
+New Zealand,2,1,4,2,3,4,0,2,1,1,1,1,4,9,Sustainable
+Switzerland,2,2,3,2,2,2,1,2,2,2,1,2,6,5,Sustainable
+Norway,2,2,4,2,2,2,0,2,2,3,1,1,5,10,Sustainable
+Denmark,3,1,3,2,2,2,1,2,2,2,1,2,5,5,Sustainable
+Sweden,3,3,1,2,2,2,1,2,1,2,2,1,6,10,Sustainable
+Finland,2,1,1,2,1,3,1,1,1,1,1,1,5,10,Sustainable

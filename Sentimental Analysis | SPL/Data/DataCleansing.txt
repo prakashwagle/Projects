@@ -1,0 +1,55 @@
+Original word,Replacement
+kanbay,DataTech
+Capgemini,DataTech
+BBandT,GoldBank
+BB&T,GoldBank
+Kuldeep,Kishor
+Samir,Santosh
+Vaibhav,Virendra
+Shringarpure,Singh
+HSBC,FirstBank
+Talawade,Andheri
+Swati,Seema
+Branch Banking,Gold Banking
+Technology Park,DP Road
+Sandeep,Sandesh
+Strategic Business Unit,Business Intelligence
+Financial Services,Banking
+Collaborative Business Experience,Excellent Solution Provider
+Harrison,Miller
+Abhishek,Anand
+Allen,White
+McGriff,Morris
+Shane,Sam
+Manish,Mahesh
+Kulkarni,Kale
+Pune,Mumbai
+FSSBU,BNKBI
+Gerber,Graham
+Adhia,Adhikari
+Deepa,Deena
+shringarp,Singh
+Patankar,Patil
+Rajesh,Rahul
+Vasant,Vivek
+Shetty,Singh
+Yamini,Yashita
+Ekambaram,Eknath
+Himanshu,Harish
+Gupta,Ganesh
+BBT,Gbank
+Monali,Minal
+Takate,Tikku
+Sarkar,Singh
+Patil,Pathak
+Winston,Madison
+Salem,Chester
+Gandhe,Godbole
+"Trivedi, Seema","Thakur, Seema"
+"Reidy, Beth","Randy, Beth"
+"Ghate, Atul tukaram","Gokhale, Atul"
+"Farris, Bradley","Fernando, Brad"
+"Punjani, Yogesh","Punjabi, Yogesh"
+"Pathak, Sunil parshuram","Pathak, Sunil"
+Sandesh Menon - BI,Sandesh Mohite
+Seema Singh (Trivedi),"Thakur, Seema"

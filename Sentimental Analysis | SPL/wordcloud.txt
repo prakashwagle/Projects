@@ -1,0 +1,17 @@
+a=read.csv("E:\\Softwares\\mail", header = TRUE,check.names=T,stringsAsFactors=FALSE)
+sentences1=a[1:1011,13]
+mail <- Corpus(VectorSource(sentences1))
+x <- wordcloud(mail)
+y <- data.frame("Sentence" = x)
+write.csv(y,file="E:\\abc1.csv",row.names=F,col.names=F)
+wordcloud <- function(mail)
+{
+mail <- tm_map(mail, stripWhitespace)
+mail <- tm_map(mail, tolower)
+mail <- tm_map(mail, removeWords, stopwords("english"))
+mail <- tm_map(mail, removeNumbers)
+mail <- tm_map(mail, removePunctuation)
+mail <- tm_map(mail, removeWords,"kuldeep")
+return(as.character(mail))
+}
+wordcloud(mail, scale=c(5,0.5), max.words=100, random.order=FALSE, rot.per=0.35, use.r.layout=FALSE, colors=brewer.pal(8, "Dark2"))
